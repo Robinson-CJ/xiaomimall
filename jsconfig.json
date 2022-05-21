@@ -4,6 +4,8 @@
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
+    // 开启 typescript 智能感知
+    "jsx": "preserve",
     "paths": {
       "@/*": [
         "src/*"

@@ -1,5 +1,5 @@
-# xiaomimall
-
+# Xiaomimall
+仿小米商场
 ## Project setup
 ```
 pnpm install
@@ -21,4 +21,3 @@ pnpm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
