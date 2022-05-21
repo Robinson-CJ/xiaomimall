@@ -1,5 +1,5 @@
 # Xiaomimall
-仿小米商场
+仿小米商城
 ## Project setup
 ```
 pnpm install
